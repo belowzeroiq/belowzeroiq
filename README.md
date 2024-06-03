@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=belowzeroiq) >
+![](https://komarev.com/ghpvc/?username=belowzeroiq)
 
 <div>
   <a href="https://github.com/yusna21">
@@ -12,5 +12,5 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-ED9121?style=flat-square&logo=Ubuntu&logoColor=ffffff)
 
 # 📱 Devices
-< ![Xiaomi Redmi Note 12 4G NFC](https://img.shields.io/badge/Xiaomi%20Redmi%20Note%2012%204G%20NFC-ED9121?style=flat-square&logo=xiaomi&logoColor=ffffff) >
+![Xiaomi Redmi Note 12 4G NFC](https://img.shields.io/badge/Xiaomi%20Redmi%20Note%2012%204G%20NFC-ED9121?style=flat-square&logo=xiaomi&logoColor=ffffff)
 
