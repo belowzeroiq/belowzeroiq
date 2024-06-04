@@ -1,10 +1,4 @@
-![](https://komarev.com/ghpvc/?username=belowzeroiq)
-
-<div>
-  <a href="https://github.com/yusna21">
-    <img width="100%" align="right" alt="ZHANtech's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=belowzeroiq&show_icons=true&hide_border=true" />
-  </a>
-</div>
+![Alt text](belowzeroiq.png)
 
 # 💻 Environment
 ![Windows](https://img.shields.io/badge/Windows%2011-00BBFF?style=flat-square&logo=Windows&logoColor=ffffff)
