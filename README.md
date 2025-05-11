@@ -20,5 +20,3 @@
 
 _⚡ Learning fast, breaking stuff (then fixing it)._  
 
-![env.'s GitHub Stats](https://github-readme-stats.vercel.app/api?username=belowzeroiq&show_icons=true&theme=tokyonight)
-
