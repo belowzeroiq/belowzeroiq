@@ -1,6 +1,6 @@
 # Hi, i'm belowzeroiq 👋
 
-🎓 Student | 💻 Linux User | 🧠 Learning Kernel Internals
+💻 Linux User | 🧠 Learning Kernel Internals
 
 ### 🚀 Projects
 - 🔧 [TopNotchFreaks GKI Kernels](https://github.com/topnotchfreaks/kernel_msm-5.15)
@@ -13,7 +13,7 @@
 ![Git](https://img.shields.io/badge/Git-orange?style=flat&logo=git)
 
 ### 📫 Reach Me
-- Telegram: ![@belowzeroiq](https://t.me/belowzeroiq)
+- Telegram: [@belowzeroiq](https://t.me/belowzeroiq)
 - Email: belowzeroiq@proton.me
 
 ---
