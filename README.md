@@ -1,5 +1,3 @@
-# Hi, i'm belowzeroiq 👋
-
 💻 Linux User | 🧠 Learning Kernel Internals
 
 ### 🚀 Projects
