@@ -7,6 +7,7 @@
 
 ### 🛠 Tech Stack
 ![Linux](https://img.shields.io/badge/Linux-black?style=flat&logo=linux)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Kotlin](https://img.shields.io/badge/Kotlin-blue?style=flat&logo=kotlin)
 ![Flutter](https://img.shields.io/badge/Flutter-blue?style=flat&logo=flutter)
 ![Git](https://img.shields.io/badge/Git-orange?style=flat&logo=git)
